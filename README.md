@@ -16,6 +16,10 @@ Advancements in HuBMAP will accelerate the world’s understanding of the relati
 ## Data structure
 The data consist of 13 images ranging from 20k to 40k pixels width/height in tiff format. For each one of them we are given information regariding the resolution of the image, the race, etnicity, sex, age, weight, height, bmi, of the patient. Also, which kidney (left or right) is included. Finally, the data also includes the percentage of sample surface corresponding to two kinds of tissue, cortex or medulla. As we will see later, glomeruli are found almost exclusiely in the cortex.
 
+
 ![All Samples](figures/all_samples.png)
+
+![All Samples](figures/all_samples_cortex_glom.png)
+
 # Approach
 # Results
